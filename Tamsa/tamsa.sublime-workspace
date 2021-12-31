@@ -1,0 +1,709 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"numofRecords"
+			],
+			[
+				"find",
+				"findstartpos"
+			],
+			[
+				"str",
+				"strobj1"
+			],
+			[
+				"stro",
+				"strobj2"
+			],
+			[
+				"s",
+				"sizeof"
+			],
+			[
+				"read",
+				"readname"
+			],
+			[
+				"iter",
+				"iterator"
+			],
+			[
+				"ve",
+				"vetor"
+			],
+			[
+				"vector",
+				"vector\tstandard header"
+			],
+			[
+				"NUM",
+				"NUM_ROWS"
+			],
+			[
+				"print",
+				"print2Darray"
+			],
+			[
+				"retrieve",
+				"retrievebyState"
+			],
+			[
+				"ret",
+				"retrievebyYear"
+			],
+			[
+				"get",
+				"getsex"
+			],
+			[
+				"io",
+				"iostream\tstandard header"
+			],
+			[
+				"inpu",
+				"inputValidate"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Parsinghtml.py",
+			"settings":
+			{
+				"buffer_size": 1001,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/kwool/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 21928,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":",
+				":$ - EOF"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"text",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"git quick",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"sublimegdb",
+				"Preferences: SublimeGDB Settings – Default"
+			],
+			[
+				"gdb",
+				"SublimeGDB: Open Console View"
+			],
+			[
+				"sublimegd",
+				"SublimeGit: Documentation"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git ",
+				"Git: Push Current Branch"
+			],
+			[
+				"git qi",
+				"Git: Quick Commit"
+			],
+			[
+				"resource ",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"sublimegiit",
+				"SublimeGit: Version"
+			],
+			[
+				"git",
+				"Git: Gui"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package ",
+				"Package Control: Disable Package"
+			],
+			[
+				"package re",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"build",
+				"Build With: C++ Single File"
+			],
+			[
+				"package reso",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				" git: Commit",
+				"Git: Checkout Commit"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"sublimegit ",
+				"Sublime Merge: File History"
+			],
+			[
+				"sublimegit",
+				"Set Syntax: SublimeGit Status"
+			],
+			[
+				"packae re",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"",
+				"Build With: C++ Single File"
+			],
+			[
+				"package i",
+				"Package Control: Install Package"
+			],
+			[
+				"c+",
+				"Set Syntax: C++"
+			],
+			[
+				"c",
+				"Set Syntax: C++"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 527.0,
+		"history":
+		[
+			"packageresourceviewer",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/kwool/Documents/Py/Tamsa"
+	],
+	"file_history":
+	[
+		"/Users/kwool/Documents/Py/Tamsa/tamsa.sublime-project",
+		"/Users/kwool/Documents/Py/Tamsa/t.py",
+		"/Users/kwool/Documents/Py/Tamsa/tamsa.html",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/Conda/Conda.sublime-settings",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/Anaconda/Default (OSX).sublime-keymap",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/User/test.sublime-build",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/User/test",
+		"/Users/kwool/Documents/Py/Tamsa/ParsingHtml.ipynb",
+		"/Users/kwool/C/quiz/quiz6no4-1.cpp",
+		"/Users/kwool/C/quiz/quiz6no4-3.cpp",
+		"/Users/kwool/C/quiz/finalno6.cpp",
+		"/Users/kwool/C/quiz/quiz6no4-2.cpp",
+		"/Users/kwool/C/quiz/msort.cpp",
+		"/Users/kwool/C/ch12/example.cpp",
+		"/Users/kwool/C/quiz/finalno4.cpp",
+		"/Users/kwool/C/quiz/finalno3.cpp",
+		"/Users/kwool/C/quiz/finalno2.cpp",
+		"/Users/kwool/C/quiz/finalno1.cpp",
+		"/Users/kwool/C/quiz/finalno5.cpp",
+		"/Users/kwool/C/ch11/example.cpp",
+		"/Users/kwool/C/quiz/quiz6no9.cpp",
+		"/Users/kwool/C/ch11/lab11-2.cpp",
+		"/Users/kwool/C/ch10/example.cpp",
+		"/Users/kwool/C/ch6/ref0.cpp",
+		"/Users/kwool/C/ch6/static.cpp",
+		"/Users/kwool/C/ch10/cooplab10-4.cpp",
+		"/Users/kwool/C/ch11/lab11-1.cpp",
+		"/Users/kwool/C/gitcpp/Lab11/lab11-1.cpp",
+		"/Users/kwool/C/ch10/cooplab10-4prob.cpp",
+		"/Users/kwool/C/gitcpp/Lab10/cooplab10-4prob.cpp",
+		"/Users/kwool/C/ch12/Lab12-1-MakeBinFile.cpp",
+		"/Users/kwool/C/ch12/Lab12-1-Search.cpp",
+		"/Users/kwool/C/ch12/a.py",
+		"/Users/kwool/C/ch10/cooplab10-1.cpp",
+		"/Users/kwool/C/ch10/cooplab10-2.cpp",
+		"/Users/kwool/C/ch10/cooplab10-3.cpp",
+		"/Users/kwool/C/ch10/discussion10-1-4.cpp",
+		"/Users/kwool/C/ch10/discussion10-1-2.cpp",
+		"/Users/kwool/C/ch10/tt.cpp",
+		"/Users/kwool/C/ch10/ar.cpp",
+		"/Users/kwool/C/ch7/example.cpp",
+		"/Users/kwool/C/ch7/cooplab7-11.cpp",
+		"/Users/kwool/C/ch12/search1.cpp",
+		"/Users/kwool/C/ch12/binaryread4.cpp",
+		"/Users/kwool/C/ch12/binaryread3.cpp",
+		"/Users/kwool/C/ch12/binaryread2.cpp",
+		"/Users/kwool/C/gitcpp/Lab12/binarywrite3.cpp",
+		"/Users/kwool/C/ch12/binaryread1.cpp",
+		"/Users/kwool/C/ch12/binarywrite1.cpp",
+		"/Users/kwool/C/ch12/binarywrite3.cpp",
+		"/Users/kwool/C/ch12/binarywrite2.cpp",
+		"/Users/kwool/C/ch12/getline3.cpp",
+		"/Users/kwool/C/gitcpp/Lab12/binarywrite0.cpp",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/sublime-github/GitHub.sublime-settings",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
+		"/Users/kwool/C/gitcpp/Lab7/cooplab7-11prob.cpp",
+		"/Users/kwool/C/ch7/cooplab7-11prob.cpp",
+		"/Users/kwool/C/gitcpp/Lab7/cooplab7-9prob.cpp",
+		"/Users/kwool/C/ch7/cooplab7-9.cpp",
+		"/Users/kwool/C/ch7/cooplab7-9prob.cpp",
+		"/Users/kwool/C/ch7/discussion8.cpp",
+		"/Users/kwool/C/gitcpp/Lab7/discussion8.cpp",
+		"/Users/kwool/C/ch12/getline1.cpp",
+		"/Users/kwool/C/ch12/getline2.cpp",
+		"/Users/kwool/C/ch12/getline3-0.cpp",
+		"/Users/kwool/C/ch11/lab11-4.cpp",
+		"/Users/kwool/C/gitcpp/Lab11/lab11-4prob.cpp",
+		"/Users/kwool/C/quiz/Quiz3Take2.cpp",
+		"/Users/kwool/C/gitcpp/quiz/Quiz3Take2prob.cpp",
+		"/Users/kwool/C/ch11/lab11-3.cpp",
+		"/Users/kwool/C/gitcpp/Lab11/lab11-2prob.cpp",
+		"/Users/kwool/C/gitcpp/Lab11/lab11-3prob.cpp",
+		"/Users/kwool/C/gitcpp/Lab11/students.txt",
+		"/Users/kwool/C/gitcpp/Lab11/struct2.cpp",
+		"/Users/kwool/C/ch11/struct1.cpp",
+		"/Users/kwool/C/ch11/students.txt",
+		"/Users/kwool/C/ch11/s.txt",
+		"/Users/kwool/C/ch7/vectorofvector.cpp",
+		"/Users/kwool/C/quiz/Quiz3No2prob.cpp",
+		"/Users/kwool/C/quiz/Quiz3No2.cpp",
+		"/Users/kwool/C/ch7/discussion6.cpp",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/Users/kwool/C/ch7/vector1.cpp",
+		"/Users/kwool/C/ch10/cooplab10-5.cpp",
+		"/Users/kwool/C/ch10/cooplab10-5prob.cpp",
+		"/Users/kwool/C/gitcpp/Lab10/atoi.cpp",
+		"/Users/kwool/C/ch10/string2.cpp",
+		"/Users/kwool/C/ch7/cooplab7-7.cpp",
+		"/Users/kwool/C/gitcpp/Lab10/string2.cpp",
+		"/Users/kwool/C/quiz/Quiz3No3prob.cpp",
+		"/Users/kwool/C/gitcpp/quiz/Quiz3No2prob.cpp",
+		"/Users/kwool/C/gitcpp/quiz/Quiz3No4prob.cpp",
+		"/Users/kwool/C/quiz/Quiz3No4prob.cpp",
+		"/Users/kwool/C/quiz/Quiz3No4.cpp",
+		"/Users/kwool/C/quiz/Quiz3No3.cpp",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/FileManager/requirements.txt",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/FileManager/sublimefunctions.py",
+		"/Users/kwool/C/ch7/cooplab7-6.cpp",
+		"/Users/kwool/C/ch10/string1.cpp",
+		"/Users/kwool/C/gitcpp/Midterm/03prob.cpp",
+		"/Users/kwool/C/gitcpp/quiz/quiz1-version2.cpp",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/keymaps/Default (OSX).sublime-keymap",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/Default.sublime-commands",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/SublimeLinter-contrib-au3check/README.md",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/SublimeLinter-lua/README.md",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/SublimeLinter-lua/messages.json",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/C++/C++ Single File.sublime-build",
+		"/Users/kwool/C/tests/Lab 7-5 Sam Asher.cpp",
+		"/Users/kwool/Library/Application Support/Sublime Text 3/Packages/SublimeGit/Main.sublime-menu",
+		"/Users/kwool/C/ch10/cstring1.cpp",
+		"/Users/kwool/C/ch7/2dcstring.cpp",
+		"/Users/kwool/C/ch7/cooplab7-8.cpp",
+		"/Users/kwool/C/ch7/cooplab7-5.cpp",
+		"/Users/kwool/C/ch7/vector4.cpp",
+		"/Users/kwool/C/ch7/vector3.cpp",
+		"/Users/kwool/C/ch10/discusstion10-2.cpp",
+		"/Users/kwool/C/gitcpp/Lab7/cooplab7-5prob.cpp"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"city",
+			"pep",
+			"start-tag",
+			"phantom",
+			"merge_tool",
+			"merge_",
+			"enable_sig",
+			"auto_com",
+			"complet",
+			"auto_complete",
+			"autocomplete",
+			"phantom",
+			"readline"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Parsinghtml.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1001,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								961,
+								961
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/kwool/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21928,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13997,
+								13997
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 240.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 144.0
+	},
+	"output.exec":
+	{
+		"height": 375.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 141.0
+	},
+	"output.git-checkout":
+	{
+		"height": 132.0
+	},
+	"output.git-commit":
+	{
+		"height": 144.0
+	},
+	"output.git-pull":
+	{
+		"height": 132.0
+	},
+	"output.git-push":
+	{
+		"height": 132.0
+	},
+	"output.git-remote":
+	{
+		"height": 245.0
+	},
+	"pinned_build_system": "Anaconda Python 3 Base Builder",
+	"project": "tamsa.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
