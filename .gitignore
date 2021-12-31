@@ -1,8 +1,0 @@
-.DS_Store
-.gitignore
-.vscode
-Pydir.sublime-workspace 
-Py-vscode.code-workspace
-Pydir.sublime-project
-.ipynb_checkpoints
-*/.ipynb_checkpoints
